@@ -29,4 +29,4 @@ It's aimed at everyday users as much as power users.
 
 ## A note on usage
 > [!NOTE]
-> For personal, lawful use only. Trademarks are the property of their owners.             
+> For personal, lawful use only. Trademarks are the property of their owners.              
